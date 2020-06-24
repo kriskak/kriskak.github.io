@@ -12,3 +12,5 @@ erste Ueberschrift wird oft auch h1 genannt
 wie h1 immer sagt
 
 > ich bin einfach das flexibelste Lebewesen auf der Erde, wenn man mich überhaupt als Lebewesen bezeichnen kann...
+
+<img src = "https://cdn.pixabay.com/photo/2015/10/11/11/20/banner-982162_960_720.jpg"/>
